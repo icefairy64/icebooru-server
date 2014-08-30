@@ -37,6 +37,9 @@ type
     Approved: Boolean;
     Favs: LongWord;
     Score: LongInt;
+    Width: LongWord;
+    Height: LongWord;
+    ThumbScale: Double;
   end;
 
 implementation

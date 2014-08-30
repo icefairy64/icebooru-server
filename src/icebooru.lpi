@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <ProjectOptions>
     <Version Value="9"/>
@@ -32,7 +32,7 @@
         <FormatVersion Value="1"/>
       </local>
     </RunParams>
-    <Units Count="2">
+    <Units Count="5">
       <Unit0>
         <Filename Value="icebooru.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -43,6 +43,21 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="generaltypes"/>
       </Unit1>
+      <Unit2>
+        <Filename Value="messenger.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="messenger"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="postmanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="postmanager"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="slice.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="slice"/>
+      </Unit4>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
